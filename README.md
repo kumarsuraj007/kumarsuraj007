@@ -1,43 +1,71 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# 👋 Hey, I'm Suraj  
 
-###
+⚡ A passionate **Full-Stack & Mobile Developer** from India 🇮🇳  
+🎙️ Currently building my own **Jarvis-style Voice Agent** with Next.js 🚀  
+💻 I love turning **ideas into modern Web & Mobile Experiences**  
 
-<p align="left">My name is Suraj and I'm a Web Developer from India.</p>
+---
 
-###
+## 🚀 Tech Arsenal  
 
-<p align="left">✨ Creating bugs since mid-2022.<br>📚 I'm currently learning Typescript.<br>🎯 Goals: making Money.<br>🎲 Fun fact: I'm not Batman.</p>
+<p align="center">
+  <!-- Languages & Frameworks -->
+  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,reactnative" />
+  <img src="https://skillicons.dev/icons?i=tailwind,materialui" />
+  <img src="https://skillicons.dev/icons?i=prisma,mongodb,supabase,postgres" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=vercel,figma,linux" />
+</p>
 
-###
+<p align="center">
+  <!-- Extras (manually added logos for non-skillicons stuff) -->
+  <img src="https://cdn.worldvectorlogo.com/logos/n8n.svg" height="45" alt="n8n"/>
+  <img src="https://avatars.githubusercontent.com/u/60064944?s=200&v=4" height="45" alt="Voiceflow"/>
+  <img src="https://payloadcms.com/icons/favicon-32x32.png" height="45" alt="Payload CMS"/>
+</p>
 
-<h2 align="left">I code with</h2>
+- ⚡ **Frontend:** React, Next.js, React Native, TailwindCSS, Material UI  
+- 🔥 **Backend:** Node.js, Express.js, Prisma, Payload CMS  
+- 📱 **Mobile:** React Native (Expo + NativeWind)  
+- 🛠️ **Databases:** MongoDB, Supabase, PostgreSQL  
+- 🤖 **Automation & AI:** n8n, Voiceflow, Custom Voice Agents  
+- 🌐 **Other Stacks:** Python, TypeScript, Docker, Git  
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/socketdotio/010101" height="40" alt="socketio logo"  />
-</div>
+## 🎯 Current Vibes  
 
-###
+- 🚀 Building a **Next.js Voice Agent (Jarvis-style)** 🗣️  
+- 🎨 Crafting **Pixel-Perfect UIs** with React & Tailwind  
+- ⚡ Exploring **AI + Automation** with Voiceflow & n8n  
+- 🌱 Always learning & shipping cool stuff  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" height="165"/>
+</p>
+
+---
+
+## ⚡ Connect With Me  
+
+<p align="center">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+</p>
+
+---
+
+🔥 *“Code. Create. Automate. Repeat.”* 🚀
