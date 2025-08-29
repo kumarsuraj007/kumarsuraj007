@@ -19,10 +19,10 @@
 </p>
 
 <p align="center">
-  <!-- Extras (manually added logos for non-skillicons stuff) -->
-  <img src="https://cdn.worldvectorlogo.com/logos/n8n.svg" height="45" alt="n8n"/>
+  <!-- Extras (manual logos) -->
+  <img src="https://n8n.io/favicon.ico" height="45" alt="n8n"/>
   <img src="https://avatars.githubusercontent.com/u/60064944?s=200&v=4" height="45" alt="Voiceflow"/>
-  <img src="https://payloadcms.com/icons/favicon-32x32.png" height="45" alt="Payload CMS"/>
+  <img src="https://raw.githubusercontent.com/payloadcms/payload/main/packages/payload/public/favicon.ico" height="45" alt="Payload CMS"/>
 </p>
 
 - ⚡ **Frontend:** React, Next.js, React Native, TailwindCSS, Material UI  
@@ -46,8 +46,8 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kumarsuraj007&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarsuraj007&layout=compact&theme=radical" height="165"/>
 </p>
 
 ---
@@ -55,7 +55,7 @@
 ## ⚡ Connect With Me  
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/kumarsuraj007">
     <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
