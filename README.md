@@ -34,13 +34,6 @@
   <img src="https://skillicons.dev/icons?i=js,ts,python,git,github,vscode,docker,vercel" />
 </p>
 
-<p align="center">
-  <!-- Extras -->
-  <img src="https://avatars.githubusercontent.com/u/28444462?s=200&v=4" height="45" alt="n8n"/>
-  <img src="https://cdn.voiceflow.com/assets/favicon.ico" height="45" alt="Voiceflow"/>
-  <img src="https://docs.payloadcms.com/images/payload-logo-light.svg" height="45" alt="Payload CMS"/>
-</p>
-
 **🔥 My Stack in Action:**
 - ⚡ **Frontend:** React, Next.js, TailwindCSS, Material UI  
 - 📱 **Mobile:** React Native with Expo & NativeWind  
