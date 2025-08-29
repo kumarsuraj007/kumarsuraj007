@@ -34,8 +34,8 @@
   <img src="https://skillicons.dev/icons?i=js,ts,python,git,github,vscode,docker,vercel" />
 </p>
 
-### 🤖 **AI & Automation**
 <p align="center">
+  <!-- Extras -->
   <img src="https://avatars.githubusercontent.com/u/28444462?s=200&v=4" height="45" alt="n8n"/>
   <img src="https://cdn.voiceflow.com/assets/favicon.ico" height="45" alt="Voiceflow"/>
   <img src="https://docs.payloadcms.com/images/payload-logo-light.svg" height="45" alt="Payload CMS"/>
@@ -46,7 +46,6 @@
 - 📱 **Mobile:** React Native with Expo & NativeWind  
 - 🔥 **Backend:** Node.js, Express.js, Prisma ORM  
 - 💾 **Databases:** MongoDB, PostgreSQL, Supabase  
-- 🤖 **AI Tools:** n8n Workflows, Voiceflow, Custom Voice Agents  
 - 🎨 **CMS:** Payload CMS for headless content management  
 - 🐍 **Scripting:** Python for automation & data processing  
 
@@ -66,33 +65,6 @@
 
 ---
 
-## 💻 Code Philosophy  
-
-```javascript
-const suraj = {
-  code: ["JavaScript", "TypeScript", "Python"],
-  askMeAbout: ["web dev", "mobile apps", "AI automation", "voice agents"],
-  technologies: {
-    frontEnd: {
-      js: ["React", "Next.js"],
-      css: ["TailwindCSS", "Material-UI"],
-      mobile: ["React Native", "Expo"]
-    },
-    backEnd: {
-      js: ["Node.js", "Express"],
-      python: ["Flask", "FastAPI"],
-      database: ["MongoDB", "PostgreSQL", "Supabase"]
-    },
-    aiAutomation: ["n8n", "Voiceflow", "Custom Agents"]
-  },
-  architecture: ["JAMstack", "Serverless", "Microservices", "Progressive Web Apps"],
-  currentFocus: "Building the future with AI-powered applications",
-  funFact: "I'm creating my own Jarvis! 🤖"
-};
-```
-
----
-
 ## 📊 GitHub Analytics  
 
 <div align="center">
@@ -106,28 +78,6 @@ const suraj = {
 
 ---
 
-## 🏆 Achievement Showcase  
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=kumarsuraj007&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🌟 Featured Projects  
-
-<div align="center">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kumarsuraj007&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true)](https://github.com/kumarsuraj007/YOUR_REPO_NAME)
-
-*🔗 Check out my repositories for more awesome projects!*
-
-</div>
-
----
-
 ## 📈 Weekly Development Breakdown  
 
 ```text
@@ -136,32 +86,3 @@ JavaScript   4 hrs 15 mins  ██████░░░░░░░░░░░�
 Python       2 hrs 45 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.6%
 CSS/SCSS     1 hr 20 mins   ██░░░░░░░░░░░░░░░░░░░░░░░    7.6%
 JSON         45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░    4.5%
-```
-
----
-
-## ⚡ Connect & Collaborate  
-
-<div align="center">
-  
-[![GitHub](https://img.shields.io/badge/GitHub-kumarsuraj007-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kumarsuraj007)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
-[![Email](https://img.shields.io/badge/Email-Let's_Chat-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
-
-</div>
-
----
-
-<div align="center">
-  
-### 💫 *"Code. Create. Automate. Repeat."* 🚀
-
-![Profile Views](https://komarev.com/ghpvc/?username=kumarsuraj007&color=blueviolet&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/kumarsuraj007?style=for-the-badge&color=orange)](https://github.com/kumarsuraj007)
-
----
-
-**⭐ If you find my work interesting, give my repositories a star! ⭐**
-
-</div>
