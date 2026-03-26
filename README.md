@@ -1,33 +1,30 @@
 # Suraj Kumar
 
-Full-Stack & Mobile Developer from India 🇮🇳  
-Currently building a Jarvis-style Voice Agent with Next.js.
+Full-Stack & Mobile Developer · India
 
 ---
 
-## Stack
+## About
 
-**Frontend** — React, Next.js, TailwindCSS, Material UI  
-**Mobile** — React Native, Expo, NativeWind  
-**Backend** — Node.js, Express.js, Prisma ORM  
-**Database** — MongoDB, PostgreSQL, Supabase  
-**Languages** — TypeScript, JavaScript, Python  
-**Tools** — Git, Docker, Vercel, Payload CMS
+I build fast, clean web and mobile applications — from idea to deployment.  
+Focused on React ecosystems, scalable backends, and AI-integrated products.
 
 ---
 
-## Currently Building
+## Tech Stack
 
-- **Jarvis Voice Agent** — Next.js + AI APIs
-- **Mobile App Portfolio** — React Native + Expo
-- **Automation Workflows** — n8n + Custom APIs
+| Layer | Technologies |
+|---|---|
+| Frontend | React, Next.js, TailwindCSS, Material UI |
+| Mobile | React Native, Expo, NativeWind |
+| Backend | Node.js, Express.js, Prisma ORM |
+| Database | MongoDB, PostgreSQL, Supabase |
+| Languages | TypeScript, JavaScript, Python |
+| Tools | Git, Docker, Vercel, Payload CMS |
 
 ---
 
-## GitHub Stats
+## Contact
 
-![Stats](https://github-readme-stats.vercel.app/api?username=kumarsuraj007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
----
-
-> *Turning ideas into modern web & mobile experiences.*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kumarsuraj007)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/kumarsuraj007)
