@@ -1,30 +1,62 @@
-# Suraj Kumar
+<h1 align="center">Hey 👋, I'm Suraj Kumar</h1>
 
-Full-Stack & Mobile Developer · India
-
----
-
-## About
-
-I build fast, clean web and mobile applications — from idea to deployment.  
-Focused on React ecosystems, scalable backends, and AI-integrated products.
+<p align="center">
+  💻 Full Stack Developer • 🚀 AI Enthusiast • 📱 React Native Learner
+</p>
 
 ---
 
-## Tech Stack
+## 🚀 About Me
 
-| Layer | Technologies |
-|---|---|
-| Frontend | React, Next.js, TailwindCSS, Material UI |
-| Mobile | React Native, Expo, NativeWind |
-| Backend | Node.js, Express.js, Prisma ORM |
-| Database | MongoDB, PostgreSQL, Supabase |
-| Languages | TypeScript, JavaScript, Python |
-| Tools | Git, Docker, Vercel, Payload CMS |
+- 🌱 Currently learning **DSA, AI & System Design**
+- ⚡ Building cool projects using **Next.js, TypeScript & React Native**
+- 🤖 Interested in **AI-powered apps and automation**
+- 🎯 Goal: Build impactful products & become a great developer
+- 💬 Love talking about tech, startups, and self-improvement
 
 ---
 
-## Contact
+## 🛠️ Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kumarsuraj007)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/kumarsuraj007)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,tailwind,mongodb,prisma,git,github,firebase" />
+</p>
+
+---
+
+## 📌 Current Projects
+
+- 🍳 AI Cooking Voice Assistant
+- 💬 AI Chat Builder
+- 📱 React Native Mobile Apps
+- 🤖 AI Automation Tools
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  
+  <a href="https://linkedin.com/in/YOUR_LINK">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐️ “Code. Learn. Build. Repeat.” ⭐️
+</p>
